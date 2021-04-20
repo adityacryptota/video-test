@@ -1,0 +1,9 @@
+1. Replace websites with projects
+2. Replace projects with widgets on anywhere else.
+3. Replace projects with LeadBubble on app.leadbubble.io.
+
+
+If, domain is app.leadbubble.io
+	projects => Leadbubble
+else
+	projects => Widgets
